@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Huron </h1>
 <p>Developer</p>
+![](https://komarev.com/ghpvc/?username=HurOnZ)
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hur0nZ" alt="Hur0nZ" /></a></p>
 
 <h2>🚀 Languages and Tools I Use</h2>
