@@ -2,10 +2,10 @@
 
 A programmer day ⚡ and night 🌙 I am Batman
 
-- 💻 Contributor of [MultiCode](https://multicode.cl)
+💻 Contributor of [MultiCode](https://multicode.cl)
 
-### 🌟 Tech Stack
-I use daily:
+ ### 🌟 Tech Stack
+⚙️ I use daily:
 `.php`, `.js`, `.html`, `.css`, `.py`, `.cs`, `.jsx` 
 
 ### ✍️ Projects
